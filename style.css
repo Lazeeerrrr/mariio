@@ -1,3 +1,8 @@
+header {
+    background-color: #F63232;
+    padding: 20px;
+    text-align: center;
+}
 .banner {
     position: relative;
 }
@@ -14,4 +19,7 @@
 }
 .banner h2 {
     font-size: 74px;
+}
+.banner h2 span {
+    font-size: 1.3em;
 }
